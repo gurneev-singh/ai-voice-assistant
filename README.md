@@ -1,4 +1,4 @@
-# 🤖 Friday — AI Voice Assistant
+# 🤖 Jarvis — AI Voice Assistant
 
 A fully voice-controlled AI assistant. Say the wake word, ask anything, hear the answer spoken aloud. No keyboard needed.
 
@@ -43,7 +43,7 @@ On first run, the Vosk speech model (~50 MB) downloads automatically.
 
 | What to say | What happens |
 |-------------|-------------|
-| "Friday" | Activates the assistant |
+| "Jarvis" | Activates the assistant |
 | Any question | Gets an AI response |
 | "Clear memory" | Forgets the conversation |
 | "Goodbye" | Shuts down |

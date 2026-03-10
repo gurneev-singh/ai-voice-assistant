@@ -1,0 +1,4 @@
+config.py
+vosk-model/
+__pycache__/
+*.pyc
